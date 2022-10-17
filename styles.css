@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+    h1 {
+        color: aqua;
+    }
+    body {
+        background-color: blanchedalmond;
+    }
+    img {
+        height: 150px;
+        width: 225px;
+    }
+}
+@media screen and (min-width: 601px) {
+    h1 {
+        color: indigo;
+    }
+    body {
+        background-color: deepskyblue;
+    }
+    img {
+        height: 300px;
+        width: 450px;
+    }
+}
